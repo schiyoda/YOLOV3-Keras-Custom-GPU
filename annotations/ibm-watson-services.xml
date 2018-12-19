@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ibm-watson-services.jpg</filename>
+	<path>/Users/chiyoda/work/yolo/YOLOV3-Keras-Custom/train/images/ibm-watson-services.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>336</width>
+		<height>255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watson_others</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>1</ymin>
+			<xmax>257</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

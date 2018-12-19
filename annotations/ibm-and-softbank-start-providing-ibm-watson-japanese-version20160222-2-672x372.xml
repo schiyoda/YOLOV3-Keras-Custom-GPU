@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ibm-and-softbank-start-providing-ibm-watson-japanese-version20160222-2-672x372.jpg</filename>
+	<path>/Users/chiyoda/work/yolo/YOLOV3-Keras-Custom/train/images/ibm-and-softbank-start-providing-ibm-watson-japanese-version20160222-2-672x372.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watson_others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>46</ymin>
+			<xmax>627</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>954584.jpg</filename>
+	<path>/Users/chiyoda/work/yolo/YOLOV3-Keras-Custom/train/images/954584.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watson_others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>66</ymin>
+			<xmax>153</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

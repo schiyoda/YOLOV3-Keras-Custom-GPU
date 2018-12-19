@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Watson_Avatar_Ambient-square-071817-homepage_1.jpg</filename>
+	<path>/Users/chiyoda/work/yolo/YOLOV3-Keras-Custom/train/images/Watson_Avatar_Ambient-square-071817-homepage_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>824</width>
+		<height>618</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>84</ymin>
+			<xmax>604</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>
